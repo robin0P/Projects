@@ -1,2 +1,3 @@
 # Roadmap-Projects
-Project ideas in roadmap.sh website
+Single-Page CV Project
+https://roadmap.sh/projects/single-page-cv
